@@ -1,0 +1,50 @@
+.conteiner {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    font-size: 36px;
+    text-align: center;
+}
+
+
+.filmDirector__name {
+    font-size: 28px;
+}
+
+#filmDirectors__list {
+    padding-left: 10px;
+
+}
+
+.listItem {
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 2px rgba(24, 62, 150) solid;
+}
+
+a {
+    color: rgb(3, 3, 3);
+    text-decoration: none;
+    align-self: center;
+}
+
+a:hover {
+    color: rgb(255, 33, 13) ;
+    text-decoration: solid;
+}
+
+#movies__top {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 18px;
+}
+
+
+
+
+
